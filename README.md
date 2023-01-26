@@ -31,6 +31,7 @@ print(f.head(10))
 print(f.tail())
 print("Number of rows:",len(f.axes[0]))
 print("Number of columns:",len(f.axes[1]))
+```
 ## OUTPUT:
 ![Screenshot from 2023-01-26 17-34-12](https://user-images.githubusercontent.com/121165938/214831515-648fcf71-6644-4e1e-92b4-732d22b1fd11.png)
 
